@@ -275,6 +275,7 @@ You can use `rake db:create_migration` to create the files for the migrations.
 - Create the `CostumeStore` class in `app/models/costume_store.rb`.
 - Fill out the Active Record migration for the `costume_stores` table such that
   it passes the specs.
+  
 - Create the `HauntedHouse` class in `app/models/haunted_house.rb`.
 - Fill out the Active Record migration for the `haunted_houses` table such that
   it passes the specs.
